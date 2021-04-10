@@ -18,15 +18,15 @@ This a system which based on my group project for Computer Architecture class wh
 
 #### **State Transition Table**
 
-![State trasition table](C:\Users\User\Desktop\README Pictures\State trasition table.PNG)
+![alt text] (https://github.com/hakeemadli/Computation-Complexity-Challenges/blob/main/README%20Pictures/State%20trasition%20table.PNG)
 
 #### **State Transition Diagram**
 
 ##### L = {FFFT}
 
-![State trasition diagram](C:\Users\User\Desktop\README Pictures\State trasition diagram.PNG)
+![alt text] (https://github.com/hakeemadli/Computation-Complexity-Challenges/blob/main/README%20Pictures/State%20trasition%20diagram.PNG)
 
-
+![alt text] ()
 
 ## Challenge 2 : Codes State Transition into into Python
 
