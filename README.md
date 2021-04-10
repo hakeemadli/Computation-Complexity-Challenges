@@ -1,6 +1,5 @@
 
 Name: Muhammad Hakeem Adli Bin Abdul Rahim 
-
 ID: 1817151 (Section 2)
 
 
@@ -38,7 +37,7 @@ This a system which based on my group project for Computer Architecture class wh
 
 #### Explanation
 
-##### Acceptance
+#### Acceptance
 
 This part of code was about step through the string character by character, and at each step simply look up the next state. When it is done stepping through each of the string it simply check if the final state is in the set of accepting states.
 
@@ -48,21 +47,21 @@ This part of code was about step through the string character by character, and 
 
 
 
-##### State Transitional diagram implementation
+#### State Transitional diagram implementation
 
 Based on challenge 1 State Transition diagram below is the implementation in list form for Python,
 
 ![](Pictures/State%20trasition%20diagram%20implementation.PNG)
 
 
-##### Running the program
+#### Running the program
 
 As shown below, the TestDFA() function was for calling the accepts() functions to check whether the input 's' is acceptable or not,
 
 ![](Pictures/Running%20program.PNG)
 
 
-##### Result
+#### Result
 
 Below is the acceptable input for the system which is FFFT which allow the system to be disarm in perspective of the project.
 
