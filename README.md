@@ -18,15 +18,13 @@ This a system which based on my group project for Computer Architecture class wh
 
 #### **State Transition Table**
 
-![alt text] (https://github.com/hakeemadli/Computation-Complexity-Challenges/blob/e3c957672e76219d1cd6f341fd2ad7c32ec148d2/README%20Pictures/State%20trasition%20diagram.PNG)
+![](Pictures/State%20trasition%20table.PNG)
 
 #### **State Transition Diagram**
 
 ##### L = {FFFT}
 
-![alt text] (https://github.com/hakeemadli/Computation-Complexity-Challenges/blob/main/README%20Pictures/State%20trasition%20diagram.PNG)
-
-![alt text] ()
+![](Pictures/State%20trasition%20diagram.PNG)
 
 ## Challenge 2 : Codes State Transition into into Python
 
@@ -42,7 +40,7 @@ This a system which based on my group project for Computer Architecture class wh
 
 This part of code was about step through the string character by character, and at each step simply look up the next state. When it is done stepping through each of the string it simply check if the final state is in the set of accepting states.
 
-![Acceptances](C:\Users\User\Desktop\README Pictures\Acceptances.PNG)
+![](Pictures/Acceptances.PNG)
 
 
 
