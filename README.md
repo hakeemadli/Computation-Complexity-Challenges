@@ -18,7 +18,7 @@ This a system which based on my group project for Computer Architecture class wh
 
 #### **State Transition Table**
 
-![alt text] (https://github.com/hakeemadli/Computation-Complexity-Challenges/blob/main/README%20Pictures/State%20trasition%20table.PNG)
+![alt text] (README Pictures/Accept.PNG)
 
 #### **State Transition Diagram**
 
