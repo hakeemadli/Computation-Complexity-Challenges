@@ -28,7 +28,7 @@ This a system which based on my group project for Computer Architecture class wh
 
 ![](Pictures/State%20trasition%20diagram.PNG)
 
-## Challenge 2 : Codes State Transition into into Python
+## Challenge 2 : Codes State Transition into Python
 
 
 
