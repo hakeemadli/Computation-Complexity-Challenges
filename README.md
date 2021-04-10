@@ -10,7 +10,7 @@ ID: 1817151 (Section 2)
 
 This a system which based on my group project for Computer Architecture class where we are supposed to build a system for a household that will prevent any breaches from happening. This consist of three main sensors,
 
-1. **Motion Sensor ** - it will detect any movement in secured areas, and it will capture the person activity.
+1. **Motion Sensor** - it will detect any movement in secured areas, and it will capture the person activity.
 
 2. **Door lock sensor** – if the sensor was not intact or broken it will activate the system alarm.
 
